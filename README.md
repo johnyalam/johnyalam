@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @johnyalam
-- 👀 I’m interested in Java, Kotlin, Python, Swift
+- 👀 I’m interested in Java, Kotlin, Android, IOS, React Native, Python, Swift
 - 🌱 I’m currently learning Web Application with Python and Django
 - 💞️ I’m looking to collaborate on Product Development
 - 📫 How to reach me : https://www.linkedin.com/in/jane-alam/
