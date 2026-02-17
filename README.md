@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @johnyalam
-- 👀 I’m interested in Java, Kotlin, Android, IOS, React Native, Python, Swift
-- 🌱 I’m currently learning Web Application with Python and Django
-- 💞️ I’m looking to collaborate on Product Development
-- 📫 How to reach me : https://www.linkedin.com/in/johnyalam/
+# 👋 Hi, I'm Johny Alam 
 
-<!---
-johnyalam/johnyalam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Cross-Platform Mobile Developer & Backend Explorer
+I specialize in building high-performance mobile applications and am currently expanding my horizons into robust web backends with Python.
+
+---
+
+### 🛠 Tech Stack
+
+- **Languages:** Java, Kotlin, Swift, Python, JavaScript
+- **Mobile:** Android SDK, iOS (SwiftUI/UIKit), React Native
+- **Backend:** Django, REST APIs
+- **Focus:** Product Development & Scalable Architecture
+
+---
+
+### 📊 GitHub Statistics
+![Johny's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnyalam&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnyalam&layout=compact&theme=radical)
+
+---
+
+### 🤝 Collaboration & Networking
+- 🌱 **Learning:** Currently diving deep into Django Rest Framework (DRF).
+- 💞️ **Looking to Collaborate:** Open-source product development or innovative mobile startups.
+- 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/johnyalam/) | [Email](mailto:your-email@example.com)
+
+---
