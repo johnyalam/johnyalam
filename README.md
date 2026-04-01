@@ -1,28 +1,36 @@
-# 👋 Hi, I'm Johny Alam 
+# 🚀 Md Johny Alam | Senior Mobile Engineer
 
-### Cross-Platform Mobile Developer & Backend Explorer
-I specialize in building high-performance mobile applications and am currently expanding my horizons into robust web backends with Python.
-
----
-
-### 🛠 Tech Stack
-
-- **Languages:** Java, Kotlin, Swift, Python, JavaScript
-- **Mobile:** Android SDK, iOS (SwiftUI/UIKit), React Native
-- **Backend:** Django, REST APIs
-- **Focus:** Product Development & Scalable Architecture
+**Helsinki, Finland** *9+ Years of experience architecting high-performance mobile ecosystems.*
 
 ---
 
-### 📊 GitHub Statistics
-![Johny's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnyalam&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnyalam&layout=compact&theme=radical)
+### 👨‍💻 Professional Profile
+Senior Engineer specializing in **Native Android (Kotlin)** and **React Native**. I focus on building scalable, 5-star products using **Clean Architecture (MVVM/MVI)** and modern CI/CD practices. Currently leveraging AI-driven development and expanding full-stack capabilities with **Python&Django**.
+
+- 📱 **Mobile:** Android SDK, Jetpack Compose, React Native, Kotlin Coroutines & Flow
+- 🏗️ **Architecture:** Clean Architecture, Dependency Injection (Dagger 2, Hilt), Multi-module setups
+- ⚙️ **DevOps:** GitHub Actions, CI/CD Automation, Unit/UI Testing (MockK, Espresso)
+- 🌐 **Backend:** Python, Django Rest Framework, PostgreSQL
 
 ---
 
-### 🤝 Collaboration & Networking
-- 🌱 **Learning:** Currently diving deep into Django Rest Framework (DRF).
-- 💞️ **Looking to Collaborate:** Open-source product development or innovative mobile startups.
-- 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/johnyalam/) | [Email](mailto:your-email@example.com)
+### 🛠 Technical Toolkit
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Kotlin, Java, TypeScript, Python, JavaScript, SQL |
+| **Frameworks** | Jetpack Compose, React Native, Django, React |
+| **Core Tech** | Dagger 2, Hilt, Retrofit, Room, Coroutines, Flow |
+| **AI & Tools** | GitHub Copilot, Gemini, Git, Jira, Firebase |
 
 ---
+
+### 📬 Let's Connect
+I am open to discussing **Senior Mobile Architecture**, remote collaboration, or innovative product development in the Helsinki area.
+
+- **LinkedIn:** [linkedin.com/in/johnyalam](https://www.linkedin.com/in/johnyalam/)
+- **Email:** [johnyalam.lut@gmail.com](mailto:johnyalam.lut@gmail.com)
+- **Portfolio:** [https://johnyalam.github.io/](https://johnyalam.github.io)
+
+---
+*"I don't just write code; I architect solutions that drive business growth."*
