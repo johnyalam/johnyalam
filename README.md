@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 Professional Profile
-Senior Engineer specializing in **Native Android (Kotlin)** and **React Native**. I focus on building scalable, 5-star products using **Clean Architecture (MVVM/MVI)** and modern CI/CD practices. Currently leveraging AI-driven development and expanding full-stack capabilities with **Python&Django**.
+Senior Engineer specializing in **Native Android (Kotlin)** and **React Native**. I focus on building scalable products using **Clean Architecture (MVVM/MVI)** and modern CI/CD practices. Currently leveraging AI-driven development and expanding full-stack capabilities with **Python&Django**.
 
 - 📱 **Mobile:** Android SDK, Jetpack Compose, React Native, Kotlin Coroutines & Flow
 - 🏗️ **Architecture:** Clean Architecture, Dependency Injection (Dagger 2, Hilt), Multi-module setups
