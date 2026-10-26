@@ -1,4 +1,4 @@
-# 🚀 Md Johny Alam | Senior Mobile Engineer
+# 🚀 Senior Full-Stack Engineer | Node.js, React, Python, Django | AWS | Android, Kotlin, Jetpack Compose & React Native
 
 **Helsinki, Finland** *9+ Years of experience architecting high-performance mobile ecosystems.*
 
