@@ -1,4 +1,4 @@
-# 🚀 Senior Full-Stack Engineer | Node.js, React, Python, Django | AWS | Android, Kotlin, Jetpack Compose & React Native
+# 🚀 Senior Android Engineer | Kotlin | Jetpack Compose | React Native | Python | Django
 
 **Helsinki, Finland** *9+ Years of experience architecting high-performance mobile ecosystems.*
 
