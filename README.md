@@ -31,6 +31,3 @@ I am open to discussing **Senior Mobile Architecture**, remote collaboration, or
 - **LinkedIn:** [linkedin.com/in/johnyalam](https://www.linkedin.com/in/johnyalam/)
 - **Email:** [johnyalam.lut@gmail.com](mailto:johnyalam.lut@gmail.com)
 - **Portfolio:** [https://johnyalam.github.io/](https://johnyalam.github.io)
-
----
-*"I don't just write code; I architect solutions that drive business growth."*
